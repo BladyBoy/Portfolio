@@ -1,9 +1,8 @@
 # My Portfolio Website 🚀
 
 Welcome to my personal portfolio website! ✨  
-You can visit it here: [BladyBoy.github.io/portfolio](https://BladyBoy.github.io/portfolio/)  
-
-## About this Project
+You can visit it here: [BladyBoy.github.io/Portfolio](httPs://BladyBoy.github.io/Portfolio/)  
+P## About this Project
 This is a **responsive and interactive portfolio website** designed to showcase my skills, projects, and contact information.  
 
 ## Features
